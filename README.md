@@ -27,4 +27,8 @@ pkg install -y python3
 ```bash
 pkg update -y
 ```
+### Luego ejecutamos el script
 
+```bash
+python3 Script_TX.py
+```
