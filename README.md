@@ -33,11 +33,11 @@ pkg install git -y
 
 ## Instalamos la libreria necesaria para la descarga
 ```bash
-sudo apt install -y yt_dlp
+pip3 install  yt_dlp
 ```
 ## En termux
 ```bash
-pkg install -y yt_dlp
+pip3 install  yt_dlp
 ```
 ## Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
 ```bash
