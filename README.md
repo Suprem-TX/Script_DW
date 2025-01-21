@@ -12,16 +12,6 @@
 
 ## Actualizamos e instalamos lo siguiente 
 ```bash
-sudo apt update && apt upgrade -y
-```
-```bash
-sudo apt install -y python3-pip
-```
-```bash
-sudo apt install -y git
-```
-## Para termux seria lo siguiente
-```bash
 pkg update -y
 ```
 ```bash
