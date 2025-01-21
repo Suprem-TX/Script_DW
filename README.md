@@ -1,6 +1,6 @@
 ---
  <P align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFreGxjN3B5bHZmamtld3Zpd3hvN3Rua2lmMm53a2swc2NuN3AwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" width="260" height="260"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa255YXp2OHhva3B4a3B1MmVlZTQxeHdrNDEzMmwweGp2MWh6YTNnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdDqAwu0yr6KC9rXov/giphy.gif" width="260" height="260"/>
 </p>
 <br
 ---
@@ -46,3 +46,6 @@ python3 Script_TX.py
 ```
 # SUSCRIBETE AL CANAL :D
 
+[![WhatsApp](https://img.shields.io/badge/%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5655424544)
+
+[![SUSCRIBETE](https://img.shields.io/badge/SUSCRIBETE%20-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SupremTX9/featured)
