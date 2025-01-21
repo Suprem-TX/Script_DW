@@ -9,6 +9,10 @@
 ##
 
 ## SCRIPT DESCARGA V|DEOS DE Y0UTUB3 MEDIANTE LA URL
+```bash
+termux-setup-storage
+```
+## Damos permisos de almacenamiento 
 
 ## Actualizamos e instalamos lo siguiente 
 ```bash
