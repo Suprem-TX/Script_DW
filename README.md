@@ -10,7 +10,7 @@
 
 ## SCRIPT DESCARGA V|DEOS DE Y0UTUB3 MEDIANTE LA URL
 
-### Actualizamos e instalamos lo siguiente 
+## Actualizamos e instalamos lo siguiente 
 ```bash
 sudo apt update && apt upgrade -y
 ```
@@ -20,7 +20,7 @@ sudo apt install -y python3-pip
 ```bash
 sudo apt install -y git
 ```
-### Para termux seria lo siguiente
+## Para termux seria lo siguiente
 ```bash
 pkg update -y
 ```
@@ -30,14 +30,23 @@ pkg install python3 -y
 ```bash
 pkg install git -y
 ```
-### Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
+
+## Instalamos la libreria necesaria para la descarga
+```bash
+sudo apt install -y yt_dlp
+```
+## En termux
+```bash
+pkg install -y yt_dlp
+```
+## Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
 ```bash
 git clone https://github.com/Suprem-TX/Script_DW.git
 ```
 ```bash
 cd Script_DW
 ```
-### Luego ejecutamos el script
+## Luego ejecutamos el script
 
 ```bash
 python3 Script_TX.py
