@@ -44,3 +44,5 @@ cd Script_DW
 ```bash
 python3 Script_TX.py
 ```
+# SUSCRIBETE AL CANAL :D
+
