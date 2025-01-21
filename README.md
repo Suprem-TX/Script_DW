@@ -40,7 +40,10 @@ git clone https://github.com/Suprem-TX/Script_DW.git
 cd Script_DW
 ```
 ### Cuando descarguemos nuestros vid3os podremos acceder a ellos facilmente
-## Luego ejecutamos el script
+## Damos permisos de ejecucion y ejecutamos
+```bash
+chmod +x Script_TX.py
+```
 ```bash
 python3 Script_TX.py
 ```
