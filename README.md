@@ -17,15 +17,25 @@ sudo apt update && apt upgrade -y
 ```bash
 sudo apt install -y python3-pip
 ```
-
-### Para termux seria lo siguiente
-
 ```bash
-pkg install -y python3
+sudo apt install -y git
 ```
-
+### Para termux seria lo siguiente
 ```bash
 pkg update -y
+```
+```bash
+pkg install python3 -y
+```
+```bash
+pkg install git -y
+```
+### Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
+```bash
+git clone https://github.com/Suprem-TX/Script_DW.git
+```
+```bash
+cd Script_DW
 ```
 ### Luego ejecutamos el script
 
