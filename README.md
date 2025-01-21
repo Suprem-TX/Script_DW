@@ -29,15 +29,18 @@ pkg install git -y
 ```bash
 pip3 install  yt_dlp
 ```
-## Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
+## Accedemos a nuestro almacenamiento para clonar el repositorio
+```bash
+cd /sdcard
+```
 ```bash
 git clone https://github.com/Suprem-TX/Script_DW.git
 ```
 ```bash
 cd Script_DW
 ```
+### Cuando descarguemos nuestros vid3os podremos acceder a ellos facilmente
 ## Luego ejecutamos el script
-
 ```bash
 python3 Script_TX.py
 ```
