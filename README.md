@@ -35,10 +35,6 @@ pkg install git -y
 ```bash
 pip3 install  yt_dlp
 ```
-## En termux
-```bash
-pip3 install  yt_dlp
-```
 ## Instalamos Git para clonar el repositorio y entrar a la carpeta con el archivo 
 ```bash
 git clone https://github.com/Suprem-TX/Script_DW.git
